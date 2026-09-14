@@ -9,10 +9,10 @@ resolvido direito.
 
 ## Construindo agora
 
-**Razão** — assistente de IA para escritórios de contabilidade.
+**Bento** — assistente de IA para escritórios de contabilidade.
 
 Auxiliar de escritório trava numa dúvida e interrompe o gerente cinco vezes por
-dia. O Razão responde na hora, com os limites que a profissão exige: nunca
+dia. O Bento responde na hora, com os limites que a profissão exige: nunca
 inventa fundamento legal, sempre sinaliza o que muda por município, sempre manda
 validar com o responsável técnico.
 
